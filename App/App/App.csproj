@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Axis.cs" />
+    <Compile Include="lab4\Axes.cs" />
+    <Compile Include="lab4\Camera3DIsometric.cs" />
+    <Compile Include="lab4\Grid.cs" />
+    <Compile Include="lab4\Objectoid.cs" />
+    <Compile Include="lab4\Randomizer.cs" />
+    <Compile Include="lab4\Window3D.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Triangle.cs" />
